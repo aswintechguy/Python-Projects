@@ -1,6 +1,7 @@
 # Python GUI Chat Application using Socket Programming
 
 **Video Tutorial Part 1:** https://youtu.be/7BqUSWovVY8
+
 **Video Tutorial Part 2:** https://youtu.be/UKK-DL4o2rU
 
 # Project Information
