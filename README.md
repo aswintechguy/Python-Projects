@@ -1,8 +1,11 @@
 # Python-Projects
 This repository contains all the python projects done as a video tutorials
 
-### Youtube Channel Link: http://bit.ly/hackersrealm
+### Complete video tutorials for the projects:-
+http://bit.ly/pythonprojectsplaylist
 
 ## Project List
 
-<li> Python GUI Chat Application
+- Python GUI Chat Application
+- QR Code Generator
+- Chatbot Application 
