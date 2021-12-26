@@ -8,4 +8,6 @@ http://bit.ly/pythonprojectsplaylist
 
 - Python GUI Chat Application
 - QR Code Generator
-- Chatbot Application 
+- Chatbot Application
+- Edge Detection
+- Contour Detection
