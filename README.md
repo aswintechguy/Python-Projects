@@ -11,3 +11,4 @@ http://bit.ly/pythonprojectsplaylist
 - Chatbot Application
 - Edge Detection
 - Contour Detection
+- Create Python Package
