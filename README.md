@@ -12,3 +12,5 @@ http://bit.ly/pythonprojectsplaylist
 - Edge Detection
 - Contour Detection
 - Create Python Package
+- ChatGPT style Chatbot Streamlit
+- Motion Detection
