@@ -14,3 +14,5 @@ http://bit.ly/pythonprojectsplaylist
 - Create Python Package
 - ChatGPT style Chatbot Streamlit
 - Motion Detection
+- Information Retrieval using ChromaDB
+- Knowledge Graph Creation
