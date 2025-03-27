@@ -16,3 +16,4 @@ http://bit.ly/pythonprojectsplaylist
 - Motion Detection
 - Information Retrieval using ChromaDB
 - Knowledge Graph Creation
+- AI Telegram Bot
